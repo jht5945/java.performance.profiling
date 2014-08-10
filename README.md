@@ -1,7 +1,7 @@
 Java Performance Profiling
 ==========================
 
-Import to `Eclipse` use the command blow:
+Import to `Eclipse` use the command below:
 
 ```
 gradle eclipse
